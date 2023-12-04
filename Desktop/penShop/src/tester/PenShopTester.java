@@ -118,6 +118,8 @@ public static void main(String[]args)
 			{
 				System.out.println(err);
 //				err.printStackTrace();
+				sc.nextLine();
+
 			}
 	   }
 	}//sc.close();
